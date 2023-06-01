@@ -1,0 +1,11 @@
+# Maybe .vscode/**/* instead - see comments
+.vscode/*
+
+# Do not ignore settings, tasks, launch, extensions json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Ignore all local history of files
+**/.history
